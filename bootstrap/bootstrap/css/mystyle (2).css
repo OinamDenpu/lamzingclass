@@ -1,0 +1,21 @@
+.mydiv{
+    background-color: grey;
+    border: solid 1px red;
+    height: 300px;
+}
+
+.btn-purple{
+    background-color: purple;
+    color: white;
+}
+
+.cus-div{
+    background-color :grey;
+    color: white;
+    //height: 300px;
+    border: solid 1px white;
+}
+
+.custom-margin{
+    margin-top:50px;
+}
